@@ -17,11 +17,11 @@ If you want to talk shop, swap ideas, or just say hi, feel free to reach out! Iâ
 ## Latest ramblings
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m blocking private IPv4 addresses on my servers by default from now on](https://richardneililagan.com/posts/blocking-rfc1918/)
 - [Visiting localhost from a physical Android device](https://richardneililagan.com/posts/visit-localhost-android-device/)
 - [Patching Berkeley Mono v2 with Nerd Font glyphs](https://richardneililagan.com/posts/patching-berkeley-mono-v2-nerd-fonts/)
 - [Configuring Paperless-ngx to monitor emails from a Proton Mail account](https://richardneililagan.com/posts/paperless-ngx-with-proton-mail/)
 - [I&#39;m trying out Nobara Linux for my gaming PC](https://richardneililagan.com/posts/nobara-linux-gaming/)
-- [Copying files to a volume on Fly.io](https://richardneililagan.com/posts/copying-files-to-fly-io-volume/)
 <!-- BLOG-POST-LIST:END -->
 
 [bluesky]: https://bsky.app/profile/richardneililagan.com
